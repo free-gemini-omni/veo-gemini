@@ -302,3 +302,4 @@ Free Gemini Omni 将创作工作台与持续生产所需的配套系统整合在
 - [套餐与积分](https://freegeminiomni.com/zh/pricing)
 - [联系支持](mailto:support@freegeminiomni.com)
 
+![Analytics](https://ga.smnzb.com/p/9zZ0eLD42)
